@@ -1,0 +1,13 @@
+# SQL yedek, log, veritabanı dosyaları
+*.bak
+*.mdf
+*.ldf
+*.log
+
+# IDE / editör ayarları
+.vscode/
+.idea/
+
+# Sistem geçici dosyaları
+Thumbs.db
+.DS_Store
